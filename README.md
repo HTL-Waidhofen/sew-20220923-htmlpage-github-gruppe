@@ -9,4 +9,4 @@ Das Team entwickelt eine Website zu einem eigenständig gewählten Thema (Film, 
 - **Uhaalag** Verantwortlicher für den **Style**: CSS Styles (möglichst reichhaltig, evtl. mit Bootstrap)
 - **Ptacnik** Verantwortlicher für die Einbindung eines **Formulars**: Erstellen eines Formulars auf der Website (z.B.: Registrierung
   für Newsletter mit Name, Addresse, e-Mail, etc.). Mind. 5 Eingabefelder.
-- **Neemia**Verantwortlicher für **Grafik**: Einbettung von Grafiken und Icons in die HTML-Seite
+- **Neemia** Verantwortlicher für **Grafik**: Einbettung von Grafiken und Icons in die HTML-Seite
