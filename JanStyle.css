@@ -25,3 +25,8 @@
   background-color: #04AA6D;
   color: white;
 }
+.form{
+    border: #04AA6D;
+    border-width: 1cm;
+    border-radius: 5px;
+}
