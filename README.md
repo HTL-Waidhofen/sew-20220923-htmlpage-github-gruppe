@@ -10,3 +10,6 @@ Das Team entwickelt eine Website zu einem eigenständig gewählten Thema (Film, 
 - **Nehoda** Verantwortlicher für die Einbindung eines **Formulars**: Erstellen eines Formulars auf der Website (z.B.: Registrierung
   für Newsletter mit Name, Addresse, e-Mail, etc.). Mind. 5 Eingabefelder.
 - **Neemia** Verantwortlicher für **Grafik**: Einbettung von Grafiken und Icons in die HTML-Seite
+                                                                        
+                                                                        
+                                                                        **Harry Potter**
