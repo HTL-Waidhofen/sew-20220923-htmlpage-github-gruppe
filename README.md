@@ -1,6 +1,6 @@
 # Aufgabenstellung
 
-Das Team entwickelt eine Website zu einem eigenständig gewählten Thema (Film, Serie, Computerspiel, ...), dabei sollen nachfolgende Rollen von unterschiedlichen Team-Membern umgesetzt werden. Mit Hilfe der git Funktionalität ist das gemeinsamen Projekt zu realisieren.
+Das Team entwickelt eine Website zu einem eigenständig gewählten Thema (Film, Serie, Computerspiel, ...), dabei sollen nachfolgende Rollen von unterschiedlichen Mitgliedern umgesetzt werden. Mit Hilfe der git Funktionalität ist das gemeinsamen Projekt zu realisieren.
 
 - Verantwortlicher für die **Struktur**: Anordnung der Elemente auf der Website: Menü, Navigationsbar
   (mit Links innerhalb der Website, Überschriften, etc.)
