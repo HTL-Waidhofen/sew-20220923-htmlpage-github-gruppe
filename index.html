@@ -1,6 +1,68 @@
 <html>
     <head>
         <title>Harry Potter</title>
+        <style>
+            .Formular{
+                background-color: rgb(128, 128, 128);
+                width: 300px;
+                height: 500px;
+                position:absolute;
+                margin: 10px;
+                border-style: double;
+                border-color: black;
+                border-radius: 30px;
+            }
+            .a{
+              width: 250px;
+              margin: 10px;
+              margin-left: 25px;
+              border-radius: 8px;
+              height: 50px;
+              margin-top: 8px;
+
+            }
+            .b{
+            width: 250px;  
+            margin: 10px;
+            margin-left: 25px;
+            border-radius: 8px;
+            height: 50px;
+            margin-top: 30px;
+            }
+            .c{
+            width: 250px;  
+            margin: 10px;
+            margin-left: 25px;
+            border-radius: 8px;
+            height: 50px;
+            margin-top: 30px;
+            }
+            .d{
+              width: 250px;  
+              margin: 10px;
+              margin-left: 25px;
+              border-radius: 8px;
+              height: 50px;
+              margin-top: 30px;
+            }
+            .Text{
+
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                margin: 10px;
+                margin-left: 25px;
+                margin-top: 15px;
+                font-size: 25px;
+            }
+            .Submit
+            {
+                width: 200px;
+                height: 50px;
+                margin: 10px;
+                margin-top: 10px;
+                margin-left: 25;
+                border-radius: 10px;
+            }
+        </style>
     </head>
     <body>
         //Menu soll Borders "1px solid black"
@@ -18,9 +80,14 @@
             <a href="zusammenfassung.html">Zusammenfassung</a>
         </div>
         <br>
-        <div id="Formular">
-            <p>Formular</p>
-            //Formular here please
+        <p>Formular</p>
+        <div class="Formular">
+            <div class="Text">Registration form</div>
+            <input placeholder="First name" class="a" >
+            <input placeholder="Second name" class="b">
+            <input placeholder="Email" class="c">
+            <input placeholder="Phone Number" class="d">
+            <button class="Submit"> Register</button>
         </div>
     </body>
 </html>
