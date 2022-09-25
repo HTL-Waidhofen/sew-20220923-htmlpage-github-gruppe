@@ -12,4 +12,4 @@ Das Team entwickelt eine Website zu einem eigenständig gewählten Thema (Film, 
 - **Ptacnik** Verantwortlicher für **Grafik**: Einbettung von Grafiken und Icons in die HTML-Seite
                                                                         
                                                                         
-                                                                        **Harry Potter**
+                                                               **Harry Potter**
