@@ -1,9 +1,9 @@
 function JanRead(string fileName){
-let fr=new FileReader();
-fr.onload=function(){
+let fileReader=new FileReader();
+fileReader.onload=function(){
 document.getElementById('output')
-.textContent=fr.result;}
-return fr.readAsText(fileName);
+.textContent=fileReader.result;}
+return fileReader.readAsText(fileName);
 }
 function displayGallery(){ 
 document.getElementById("p1").innerHTML=JanRead("gallery.html");
